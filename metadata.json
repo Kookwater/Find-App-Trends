@@ -1,0 +1,5 @@
+{
+  "name": "App Trend Finder",
+  "description": "An AI-powered application that discovers the most popular and trending app ideas, top downloaded apps from Google Play and Apple Appstore, and the most promising niches using Gemini with Google Search grounding for up-to-date insights.",
+  "requestFramePermissions": []
+}
